@@ -1,1 +1,3 @@
 Hello, my name is "Nicholas" and I am working on hw1
+Hello, our names are Nicholas and Aaron and we are working on
+hw4 together
